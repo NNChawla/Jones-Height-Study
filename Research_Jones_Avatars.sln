@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Research_Jones_Avatars", "Research_Jones_Avatars.csproj", "{4800A758-1A69-125B-C9E2-727A848401ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Research_Jones_Avatars.Editor", "Research_Jones_Avatars.Editor.csproj", "{8D29BFA7-5C6B-1DC7-85C8-C40082A9AEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4800A758-1A69-125B-C9E2-727A848401ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4800A758-1A69-125B-C9E2-727A848401ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4800A758-1A69-125B-C9E2-727A848401ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4800A758-1A69-125B-C9E2-727A848401ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D29BFA7-5C6B-1DC7-85C8-C40082A9AEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D29BFA7-5C6B-1DC7-85C8-C40082A9AEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D29BFA7-5C6B-1DC7-85C8-C40082A9AEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D29BFA7-5C6B-1DC7-85C8-C40082A9AEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: ad5f2a063d2995843b8ded1fc920e561
+timeCreated: 1536958110
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ball
+    100002: BallGeo
+    100004: BallGeoL
+    100006: BallGeoR
+    100008: Bip001
+    100010: //RootNode
+    100012: Chest
+    100014: Head
+    100016: HeadNub
+    100018: Hips
+    100020: L Finger0Nub
+    100022: L Finger1Nub
+    100024: L Toe0Nub
+    100026: LeftArm
+    100028: Leftball
+    100030: LeftFoot
+    100032: LeftForeArm
+    100034: LeftHand
+    100036: LeftHandMiddle1
+    100038: LeftHandMiddle2
+    100040: LeftHandThumb1
+    100042: LeftHandThumb2
+    100044: LeftLeg
+    100046: LeftShoulder
+    100048: LeftToe
+    100050: LeftUpLeg
+    100052: M_Chest01
+    100054: M_Foot01
+    100056: M_Head_Europeans01
+    100058: M_Hip01
+    100060: M_LArm01
+    100062: M_LCalf01
+    100064: M_LForearm01
+    100066: M_LHand01
+    100068: M_LKnee01
+    100070: M_LShoulder01
+    100072: M_LThigh01
+    100074: M_Neck01
+    100076: M_RArm01
+    100078: M_RCalf01
+    100080: M_RForearm01
+    100082: M_RHand01
+    100084: M_RKnee01
+    100086: M_RShoulder01
+    100088: M_RThigh01
+    100090: M_Waist01
+    100092: Neck
+    100094: R Finger0Nub
+    100096: R Finger1Nub
+    100098: R Toe0Nub
+    100100: RightArm
+    100102: Rightball
+    100104: RightFoot
+    100106: RightForeArm
+    100108: RightHand
+    100110: RightHandMiddle1
+    100112: RightHandMiddle2
+    100114: RightHandThumb1
+    100116: RightHandThumb2
+    100118: RightLeg
+    100120: RightShoulder
+    100122: RightToe
+    100124: RightUpLeg
+    100126: Root
+    100128: Spine
+    100130: Spine1
+    400000: Ball
+    400002: BallGeo
+    400004: BallGeoL
+    400006: BallGeoR
+    400008: Bip001
+    400010: //RootNode
+    400012: Chest
+    400014: Head
+    400016: HeadNub
+    400018: Hips
+    400020: L Finger0Nub
+    400022: L Finger1Nub
+    400024: L Toe0Nub
+    400026: LeftArm
+    400028: Leftball
+    400030: LeftFoot
+    400032: LeftForeArm
+    400034: LeftHand
+    400036: LeftHandMiddle1
+    400038: LeftHandMiddle2
+    400040: LeftHandThumb1
+    400042: LeftHandThumb2
+    400044: LeftLeg
+    400046: LeftShoulder
+    400048: LeftToe
+    400050: LeftUpLeg
+    400052: M_Chest01
+    400054: M_Foot01
+    400056: M_Head_Europeans01
+    400058: M_Hip01
+    400060: M_LArm01
+    400062: M_LCalf01
+    400064: M_LForearm01
+    400066: M_LHand01
+    400068: M_LKnee01
+    400070: M_LShoulder01
+    400072: M_LThigh01
+    400074: M_Neck01
+    400076: M_RArm01
+    400078: M_RCalf01
+    400080: M_RForearm01
+    400082: M_RHand01
+    400084: M_RKnee01
+    400086: M_RShoulder01
+    400088: M_RThigh01
+    400090: M_Waist01
+    400092: Neck
+    400094: R Finger0Nub
+    400096: R Finger1Nub
+    400098: R Toe0Nub
+    400100: RightArm
+    400102: Rightball
+    400104: RightFoot
+    400106: RightForeArm
+    400108: RightHand
+    400110: RightHandMiddle1
+    400112: RightHandMiddle2
+    400114: RightHandThumb1
+    400116: RightHandThumb2
+    400118: RightLeg
+    400120: RightShoulder
+    400122: RightToe
+    400124: RightUpLeg
+    400126: Root
+    400128: Spine
+    400130: Spine1
+    2100000: 'Material #577'
+    2100002: 'Material #578'
+    2100004: 'Material #576'
+    2100006: 'Material #581'
+    2100008: 'Material #580'
+    2100010: 'Material #162'
+    4300000: M_Waist01
+    4300002: M_Foot01
+    4300004: M_LCalf01
+    4300006: M_Hip01
+    4300008: M_RCalf01
+    4300010: M_RKnee01
+    4300012: M_RThigh01
+    4300014: M_LThigh01
+    4300016: M_LKnee01
+    4300018: M_Head_Europeans01
+    4300020: M_Chest01
+    4300022: M_RShoulder01
+    4300024: M_RArm01
+    4300026: M_RForearm01
+    4300028: M_LShoulder01
+    4300030: M_LArm01
+    4300032: M_LForearm01
+    4300034: M_Neck01
+    4300036: M_RHand01
+    4300038: M_LHand01
+    4300040: BallGeoR
+    4300042: BallGeoL
+    4300044: BallGeo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BallGeo
+    13700002: BallGeoL
+    13700004: BallGeoR
+    13700006: M_Chest01
+    13700008: M_Foot01
+    13700010: M_Head_Europeans01
+    13700012: M_Hip01
+    13700014: M_LArm01
+    13700016: M_LCalf01
+    13700018: M_LForearm01
+    13700020: M_LHand01
+    13700022: M_LKnee01
+    13700024: M_LShoulder01
+    13700026: M_LThigh01
+    13700028: M_Neck01
+    13700030: M_RArm01
+    13700032: M_RCalf01
+    13700034: M_RForearm01
+    13700036: M_RHand01
+    13700038: M_RKnee01
+    13700040: M_RShoulder01
+    13700042: M_RThigh01
+    13700044: M_Waist01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
